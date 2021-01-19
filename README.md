@@ -1,1 +1,6 @@
-Привет! Это GitHub FazziCLAY! У меня есть [сайт](https://fazziclay.ru/) на котором есть ссылки на меня и ещё немного информации.
+# FazziCLAY
+**Hello GitHub!**
+## My site - https://fazziclay.ru/
+## Email   - fazziclay@gmail.com
+
+Я русский! :)
