@@ -2,7 +2,7 @@
 ---------------
 
 ## I'm ready to work
-**My Resume: https://fazziclay.github.io/fazziclay-resume.pdf**
+**My Resume: https://fazziclay.github.io/dev/resume.pdf**
 
 ---------------
 
