@@ -2,6 +2,7 @@
 
 | Language | Repository | Framework* | Description | 
 |---|---|---|---|
+| Java | [OpenJavaLauncher](https://github.com/FazziCLAY/OpenJavaLauncher) | Swing GUI | Minecraft Java Edition launcher written in Java! (simplyfy, linux-style) |
 |      | [mamixarchive.github.io](https://github.com/FazziCLAY/mamixarchive.github.io) | | *301 Moved Permanently* |
 | Java | [BukkitFakeApi](https://github.com/FazziCLAY/BukkitFakeApi) | Minecraft | Fake bukkit plugin API |
 | Java/Kotlin | [OpenToday](https://github.com/FazziCLAY/OpenToday) | Android | Notes, TODO and organizer app |
