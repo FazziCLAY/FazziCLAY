@@ -21,3 +21,5 @@ I love music <3
 * [OpenVkInDiscord](https://github.com/FazziCLAY/OpenVkInDiscord) - Use [VK](https://vk.com) via [Discord](https://discord.com)
 * [OpenPrivateMessages](https://github.com/FazziCLAY/OpenPrivateMessages) - Private messages using Component & [CommandAPI](https://github.com/JorelAli/CommandAPI) (Minecraft)
 * [OpenWidgets](https://github.com/FazziCLAY/OpenWidgets) - My first android application (bad work)
+
+**All projects: [PUBLIC_GITHUB_REPOSITORIES.md](https://github.com/FazziCLAY/FazziCLAY/blob/main/PUBLIC_GITHUB_REPOSITORIES.md)**
