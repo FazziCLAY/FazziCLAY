@@ -2,6 +2,7 @@
 
 | Language | Repository | Framework* | Description | 
 |---|---|---|---|
+| Java | [f3time](https://github.com/FazziCLAY/f3time) | Minecraft | Show time & uptime in F3 menu |
 | Java | [OpenJavaLauncher](https://github.com/FazziCLAY/OpenJavaLauncher) | Swing GUI | Minecraft Java Edition launcher written in Java! (simplyfy, linux-style) |
 |      | [mamixarchive.github.io](https://github.com/FazziCLAY/mamixarchive.github.io) | | *301 Moved Permanently* |
 | Java | [BukkitFakeApi](https://github.com/FazziCLAY/BukkitFakeApi) | Minecraft | Fake bukkit plugin API |
