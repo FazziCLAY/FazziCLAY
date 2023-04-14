@@ -25,6 +25,6 @@
 | Java | [SHAREfile](https://github.com/FazziCLAY/SHAREfile) | Android | **(not work)** App for share files via local network | 
 |      | [AmethystMC](https://github.com/FazziCLAY/AmethystMC) | | |
 | Java | [OpenWidgets](https://github.com/FazziCLAY/OpenWidgets) | Android | Widgets app (TimeWidget) |
-| Java | [FazziCLAYLibs](https://github.com/FazziCLAY/FazziCLAYLibs) | | Java personal utils |
+| Java | [FazziCLAYLibs](https://github.com/FazziCLAY/FazziCLAYLibs) | | ~~Java personal utils~~ **[DEPRECATED]** |
 | Java | [OpenSpigotChat](https://github.com/FazziCLAY/OpenSpigotChat) | Minecraft | Chat plugin |
 | Python | [spapi](https://github.com/FazziCLAY/spapi) | | (my first github repo) Python wrapper of SPApi(closed) |
