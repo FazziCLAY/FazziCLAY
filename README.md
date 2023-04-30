@@ -1,7 +1,8 @@
 # FazziCLAY
 ---------------
 
-## I'm ready to work
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazziCLAY&show_icons=true&theme=vision-friendly-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazziCLAY&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **My Resume: https://fazziclay.github.io/dev/resume.pdf**
 
 ---------------
