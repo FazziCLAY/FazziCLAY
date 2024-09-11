@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FazziCLAY&show_icons=true&theme=vision-friendly-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazziCLAY&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-**My Resume: https://fazziclay.github.io/dev/resume.pdf**
+**My Resume: [*Google Docs*](https://docs.google.com/document/d/1a97T928JT1FVFWm56DYjdS_06Py8VpT5DBR2pu0GI40/edit?pli=1)**
 
 ---------------
 
