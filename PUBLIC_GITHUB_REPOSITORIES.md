@@ -2,6 +2,12 @@
 
 | Language | Repository | Framework* | Description | 
 |---|---|---|---|
+| Dart | [Dartanyan](https://github.com/FazziCLAY/Dartanyan) | Flutter | Cross-platform client for **fclaybackend** |
+| JavaScript | [fclayfrontend](https://github.com/FazziCLAY/fclayfrontend) | ReactJS | My site react app: https://fazziclay.com  |
+| Java | [fclaybackend](https://github.com/FazziCLAY/fclaybackend) | Spring | My backend in spring |
+| C++ | [HumidifierWrapper](https://github.com/FazziCLAY/HumidifierWrapper) | Arduino | My wrapper for my Humidifier from Aliexpress |
+| Python | [MoodleParser](https://github.com/FazziCLAY/MoodleParser) | | Парсер внутреннего сайта Волгоградского Государственного Технического Университета |
+| Java | [DirtRenderer](https://github.com/FazziCLAY/DirtRenderer) | OpenGL | My simple render engine [*YouTube*](https://www.youtube.com/watch?v=hCzHntqmUXU) |
 | Java | [f3time](https://github.com/FazziCLAY/f3time) | Minecraft Fabric | Show time & uptime in F3 menu |
 | Java | [OpenJavaLauncher](https://github.com/FazziCLAY/OpenJavaLauncher) | Swing GUI | Minecraft Java Edition launcher written in Java! (simplyfy, linux-style) |
 |      | [mamixarchive.github.io](https://github.com/FazziCLAY/mamixarchive.github.io) | | *301 Moved Permanently* |
