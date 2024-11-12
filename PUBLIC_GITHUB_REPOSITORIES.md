@@ -1,4 +1,4 @@
-# This is a list of public repositories in my github profile
+# This is the list of public repositories in my github profile
 
 | Language | Repository | Framework* | Description | 
 |---|---|---|---|
