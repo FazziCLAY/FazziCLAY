@@ -1,7 +1,6 @@
 # FazziCLAY
 ---------------
-[![findjob](https://github.com/user-attachments/assets/3fe35e7b-85d7-49ff-bbe8-8732f4d106f1)](https://fazziclay.com/contact) 
-
+<!-- тут был позор -->
 
 ---------------
 <img src="https://skillicons.dev/icons?i=git,githubactions,java,kotlin,python,arduino,androidstudio,spring,react,docker,nginx,gradle,cloudflare,idea,pycharm,webstorm,bash,obsidian,debian,regex&perline=10"></img>
